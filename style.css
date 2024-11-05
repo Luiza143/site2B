@@ -1,0 +1,9 @@
+body{
+  background-image:URL(batatapalha.jpeg);
+  font-align:center;
+}
+header{
+  color:red
+  background-color:yellow;
+  border-radius:10px;
+}
